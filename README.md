@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Mohammed Adeen Shaik
-- 👀 I am actively looking for job in the field of Data Science and Analytics
-- 🌱 I’m currently pursuing my PG Diploma in Big Data Solutions Architecture
-- 💞️ I have worked on AI, ML, Tableau and AWS, GCP Cloud projects in my work and education history.
-- 📫 How to reach me Shaik.adeen12@gmail.com, or directly on linkedin : www.linkedin.com/in/as1607
-
-<!---
-Adeen1607/Adeen1607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm Mohammed Adeen Shaik — Data Analyst and AI/ML Professional based in Kitchener, Ontario, Canada
+- 👀 I am actively seeking opportunities in Data Analytics, Data Science, and AI/ML Engineering
+- 🏆 3rd place winner at Communitech's AIML Tech Showcase, Kitchener (August 2025) for an emotion-based AI application built with CNN, Docker, MLflow, and Grafana
+- 🌱 I hold two Post-Graduate Diplomas from Conestoga College in Applied Artificial Intelligence and Machine Learning, and Big Data Solutions Architecture
+- 💞️ My work spans Python, SQL, Power BI, Azure Databricks, Apache Spark, GCP, and AWS across real world data engineering and analytics projects
+- 🎓 Bachelor of Technology in Computer Science and Engineering — SRM Institute of Science and Technology, 9.6 GPA
+- 🏅 Certified: Databricks Accredited GCP Platform Architect | Stanford University Statistics (Coursera) | AWS Data Analytics Fundamentals
+- 🤝 Canadian Open Work Permit holder — available to work for any employer in Canada immediately, no LMIA required
+- 📫 Reach me at shaik.adeen12@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/as1607/
