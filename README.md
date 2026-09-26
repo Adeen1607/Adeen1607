@@ -2,34 +2,50 @@
 
 **Business Intelligence | Data Analytics | Data Engineering**
 
-I build reliable data pipelines, decision-ready dashboards, and analytical solutions that turn complex datasets into clear business insights. My work spans SQL, Python, Power BI, Tableau, cloud data platforms, statistical analysis, and applied machine learning.
+I build reliable data pipelines, decision-ready dashboards, and analytical solutions that turn complex datasets into clear business insights. My portfolio emphasizes reproducibility, data quality, documented business rules, and honest evaluation.
 
 Based in Kitchener, Ontario, and authorized to work in Canada without employer sponsorship.
 
-## What I Work On
+## Focus Areas
 
-- **Business intelligence:** KPI scorecards, interactive dashboards, data modelling, DAX, Power Query, Tableau, and data storytelling
-- **Data analytics:** SQL analysis, Python, pandas, NumPy, statistical testing, segmentation, and performance reporting
-- **Data engineering:** ETL and ELT pipelines, data validation, batch and streaming workflows, Kafka, Hive, and cloud storage
-- **Applied machine learning:** classification, regression, clustering, recommendation systems, model evaluation, and experiment design
+- **Business intelligence:** KPI scorecards, Power BI semantic models, DAX, Power Query, Tableau, Excel, and executive reporting
+- **Data analytics:** SQL, Python, pandas, statistical analysis, segmentation, operational reporting, and data storytelling
+- **Data engineering:** ETL/ELT pipelines, validation, batch and streaming workflows, cloud storage, Kafka, Spark, and Hive
+- **Predictive modelling:** classification, forecasting, class imbalance, threshold design, probability calibration, and model evaluation
 
-## Featured Solo Projects
+## Business Intelligence Case Studies
 
-| Project | Business Question | Tools |
+| Project | Decision focus | Core deliverables |
 | --- | --- | --- |
-| [BI Dashboard Portfolio](https://github.com/Adeen1607/BI-DASHBOARDS) | How can operational and sales data be transformed into concise, decision-ready visual stories? | Tableau, dashboard design, KPI reporting |
-| [Customer Survey Analytics](https://github.com/Adeen1607/Customer-Survey-Analytics-with-Python) | What patterns can be identified in customer survey responses while clearly separating observed and simulated data? | Python, pandas, visualization |
-| [Credit Card Fraud Classification](https://github.com/Adeen1607/Logistic-Regression) | How do classification models compare when detecting rare fraudulent transactions? | Python, logistic regression, KNN, SVM |
-| [Exploratory Data Analysis](https://github.com/Adeen1607/EXPLORATORY-DATA-ANALYSIS-R) | Which trends, segments, and anomalies emerge from structured exploratory analysis? | R, Python, K-means, visualization |
-| [News Retrieval Pipeline](https://github.com/Adeen1607/RAG-Application-News-API-Pipleine) | How can current news content be collected and transformed into searchable analytical context? | Python, APIs, notebooks, retrieval workflows |
-| [GCP Kafka Data Pipeline](https://github.com/Adeen1607/GCP-ETL---Apache-Kafka) | How can batch and streaming components support a scalable cloud analytics workflow? | GCP, Kafka, Hadoop, Hive |
+| [Retail Sales & Customer Value](https://github.com/Adeen1607/retail-sales-customer-value) | Revenue performance, RFM segmentation, product mix, and geographic growth | UCI ingestion, validated sales fact, RFM tables, DAX, tests |
+| [E-commerce Operations](https://github.com/Adeen1607/ecommerce-operations-analytics) | Delivery reliability, seller quality, freight cost, and customer reviews | Multi-table marketplace model, scorecards, Power BI measures |
+| [Marketing Campaign Performance](https://github.com/Adeen1607/marketing-campaign-performance) | Conversion, channel efficiency, contact frequency, and customer segments | UCI ingestion, campaign fact, conversion scorecards, leakage controls |
+| [Consumer Complaints](https://github.com/Adeen1607/consumer-complaints-analytics) | Product issues, company responses, complaint trends, and geography | CFPB ingestion, chunked processing, response scorecards, privacy controls |
+| [Toronto Transit Reliability](https://github.com/Adeen1607/toronto-transit-reliability) | Route delays, incident causes, service gaps, and recurring disruption | Toronto Open Data ingestion, event model, route and incident KPIs |
+
+## Predictive Modelling Case Studies
+
+| Project | Modelling focus | Validation design |
+| --- | --- | --- |
+| [Customer Churn Prediction](https://github.com/Adeen1607/customer-churn-prediction) | Retention risk ranking and threshold selection | Stratified train/validation/test split, model comparison, minimum-recall threshold |
+| [Retail Demand Forecasting](https://github.com/Adeen1607/retail-demand-forecasting) | Short-horizon planning and seasonal demand | Chronological splits, lag features, seasonal-naive benchmark |
+| [Credit Default Risk](https://github.com/Adeen1607/credit-default-risk) | Calibrated probability of default and decision cost | Cross-validated calibration, cost-sensitive validation threshold, held-out test |
+
+## Additional Solo Work
+
+- [BI Dashboard Portfolio](https://github.com/Adeen1607/BI-DASHBOARDS)
+- [Customer Survey Analytics](https://github.com/Adeen1607/Customer-Survey-Analytics-with-Python)
+- [Credit Card Fraud Classification](https://github.com/Adeen1607/Logistic-Regression)
+- [Exploratory Data Analysis in R and Python](https://github.com/Adeen1607/EXPLORATORY-DATA-ANALYSIS-R)
+- [News Article Retrieval Pipeline](https://github.com/Adeen1607/RAG-Application-News-API-Pipleine)
+- [GCP and Kafka Data Pipeline](https://github.com/Adeen1607/GCP-ETL---Apache-Kafka)
 
 ## Technical Toolkit
 
 **Languages and analysis:** Python, SQL, R, pandas, NumPy, scikit-learn  
 **Business intelligence:** Power BI, DAX, Power Query, Tableau, Excel, Looker Studio  
-**Data platforms:** Azure Data Factory, Azure Databricks, Azure Data Lake, AWS S3, Redshift, GCP DataProc, BigQuery  
-**Data engineering:** ETL, data quality, data modelling, Kafka, Spark, HDFS, Hive  
+**Data platforms:** Azure Data Factory, Azure Databricks, Azure Data Lake, AWS S3, Redshift, GCP Dataproc, BigQuery  
+**Data engineering:** ETL, data quality, dimensional modelling, Kafka, Spark, HDFS, Hive  
 **Delivery:** Git, Docker, REST APIs, Postman, MLflow, Grafana
 
 ## Education
@@ -40,11 +56,11 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 ## Credentials
 
-- Databricks Accredited GCP Platform Architect from Databricks Academy
-- Databricks Lakehouse Fundamentals from Databricks Academy
-- Azure Data Factory with LinkedIn e-learning
-- Fundamentals of Data Analytics on AWS Skillbuilder
-- Introduction to Statistics, Stanford University program through Coursera
+- Databricks Accredited GCP Platform Architect, Databricks Academy
+- Databricks Lakehouse Fundamentals, Databricks Academy
+- Azure Data Factory, LinkedIn Learning
+- Fundamentals of Data Analytics on AWS, AWS Skill Builder
+- Introduction to Statistics, Stanford University through Coursera
 
 ## Contact
 
