@@ -40,11 +40,11 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 ## Credentials
 
-- Databricks Accredited GCP Platform Architect
-- Databricks Lakehouse Fundamentals
-- Azure Data Factory
-- Fundamentals of Data Analytics on AWS
-- Introduction to Statistics, Stanford University through Coursera
+- Databricks Accredited GCP Platform Architect from Databricks Academy
+- Databricks Lakehouse Fundamentals from Databricks Academy
+- Azure Data Factory with LinkedIn e-learning
+- Fundamentals of Data Analytics on AWS Skillbuilder
+- Introduction to Statistics, Stanford University program through Coursera
 
 ## Contact
 
