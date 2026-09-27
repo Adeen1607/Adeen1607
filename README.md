@@ -33,6 +33,7 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 ## Additional Solo Work
 
+- [Python Problem-Solving Patterns](https://github.com/Adeen1607/python-code) - tested algorithms, complexity analysis, and CI
 - [BI Dashboard Portfolio](https://github.com/Adeen1607/BI-DASHBOARDS)
 - [Customer Survey Analytics](https://github.com/Adeen1607/Customer-Survey-Analytics-with-Python)
 - [Credit Card Fraud Classification](https://github.com/Adeen1607/Logistic-Regression)
