@@ -6,6 +6,8 @@ I build reliable data pipelines, decision-ready dashboards, and analytical solut
 
 Based in Kitchener, Ontario, and authorized to work in Canada without employer sponsorship.
 
+> **Portfolio publication note:** The case-study repositories below were developed and refined locally over time, then published together during a GitHub portfolio consolidation in September 2026. Their GitHub creation and commit dates reflect the publication process, not the full period of development.
+
 ## Focus Areas
 
 - **Business intelligence:** KPI scorecards, Power BI semantic models, DAX, Power Query, Tableau, Excel, and executive reporting
