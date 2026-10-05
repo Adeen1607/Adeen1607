@@ -17,6 +17,13 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 ## Business Intelligence Case Studies
 
+### Start here
+
+- **[Retail Sales & Customer Value](https://github.com/Adeen1607/retail-sales-customer-value):** inspect the ingestion script, transaction validation, tie-aware RFM scores, automated tests and documented KPI rules.
+- **[E-commerce Operations](https://github.com/Adeen1607/ecommerce-operations-analytics):** inspect order/item grain, payment and review aggregation, nullable delivery eligibility and order-weighted seller scorecards.
+
+Both projects include executable Python pipelines and Power BI model assets. Their dashboard page lists describe report designs; finished `.pbix` dashboards are not included in those two repositories. The READMEs explain setup, source-data access and how to run tests.
+
 | Project | Decision focus | Core deliverables |
 | --- | --- | --- |
 | [Retail Sales & Customer Value](https://github.com/Adeen1607/retail-sales-customer-value) | Revenue performance, RFM segmentation, product mix, and geographic growth | UCI ingestion, validated sales fact, RFM tables, DAX, tests |
@@ -47,7 +54,7 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 **Languages and analysis:** Python, SQL, R, pandas, NumPy, scikit-learn  
 **Business intelligence:** Power BI, DAX, Power Query, Tableau, Excel, Looker Studio  
-**Data platforms:** Azure Data Factory, Azure Databricks, Azure Data Lake, AWS S3, Redshift, GCP Dataproc, BigQuery  
+**Data platforms:** AWS S3, Redshift, GCP Dataproc, BigQuery; Azure Data Factory, Azure Databricks and Azure Data Lake coursework\
 **Data engineering:** ETL, data quality, dimensional modelling, Kafka, Spark, HDFS, Hive  
 **Delivery:** Git, Docker, REST APIs, Postman, MLflow, Grafana
 
@@ -59,7 +66,7 @@ Based in Kitchener, Ontario, and authorized to work in Canada without employer s
 
 ## Credentials
 
-- Databricks Accredited GCP Platform Architect, Databricks Academy
+- Databricks Accredited GCP Platform Architect, Databricks Academy — earned August 2024; expired August 2026
 - Databricks Lakehouse Fundamentals, Databricks Academy
 - Azure Data Factory, LinkedIn Learning
 - Fundamentals of Data Analytics on AWS, AWS Skill Builder
