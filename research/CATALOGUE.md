@@ -7,7 +7,7 @@ Each project links to an evidence-labelled report, annotated notebooks where pre
 | [Business Intelligence Dashboard Studies](https://github.com/Adeen1607/BI-DASHBOARDS) | [Report](https://github.com/Adeen1607/BI-DASHBOARDS/blob/main/research/report.md) | See project evidence note |
 | [Milk and Frozen Spending Clusters](https://github.com/Adeen1607/Clustering-With-R) | [Report](https://github.com/Adeen1607/Clustering-With-R/blob/main/research/report.md) | See project evidence note |
 | [Customer Survey Indicators](https://github.com/Adeen1607/Customer-Survey-Analytics-with-Python) | [Report](https://github.com/Adeen1607/Customer-Survey-Analytics-with-Python/blob/main/research/report.md) | See project evidence note |
-| [Household Survey Exploratory Analysis](https://github.com/Adeen1607/EXPLORATORY-DATA-ANALYSIS-R) | [Report](https://github.com/Adeen1607/EXPLORATORY-DATA-ANALYSIS-R/blob/main/research/report.md) | See project evidence note |
+| [Household Survey Exploratory Analysis](https://github.com/Adeen1607/EXPLORATORY-DATA-ANALYSIS-R) | Publication pending privacy approval | Original coursework; new reading edition not published |
 | [News ETL with Kafka and Hive](https://github.com/Adeen1607/GCP-ETL---Apache-Kafka) | [Report](https://github.com/Adeen1607/GCP-ETL---Apache-Kafka/blob/main/research/report.md) | See project evidence note |
 | [GUI Project Archive](https://github.com/Adeen1607/GUI_Beginner_Project) | [Report](https://github.com/Adeen1607/GUI_Beginner_Project/blob/main/research/report.md) | See project evidence note |
 | [Attendance and CGPA Regression](https://github.com/Adeen1607/LINEAR_REGRESSION) | [Report](https://github.com/Adeen1607/LINEAR_REGRESSION/blob/main/research/report.md) | See project evidence note |
